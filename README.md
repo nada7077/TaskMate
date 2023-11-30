@@ -23,10 +23,13 @@ Installation Instructions:
 
 Usage Guide: Open the app by pressing on the app icon. You will find main interface that contains all the tasks you have add to the app. There is a button in the bottom of the app that add new tasks by adding tasks details. If you want to edit, delete or complete a task, you can click on it and a list of options will appear containing all of these options. If clicked on edit you have edit tasks details then click save to save the changes.
 
-Contributors: Nada Mohammed Abdulah
+Contributors: 
+Nada Mohammed Abdullah
+Mead Abdullh Ali
 
-Contact Information:444809045@kku.edu.sa
- 
+Contact Information:
+444809045@kku.edu.sa
+444809582@kku.edu.sa 
 
 
 
